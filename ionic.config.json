@@ -1,0 +1,7 @@
+{
+  "name": "gtechapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
