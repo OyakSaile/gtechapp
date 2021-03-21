@@ -1,0 +1,63 @@
+.primary-color-bg{
+    background-color: var(--ion-color-primary);
+}
+
+.about-gtech-text h1{
+    color: var( --background-white-color);
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.about-gtech-text p{
+    color: #E5E5E5;
+}
+
+.button-about-gtech{
+    background: var(--background-white-color);
+}
+.about-gtech-text a {
+    font-weight: bold;
+
+}
+.about-gtech-text ion-button{
+    background-color: var(--background-white-color);
+    border-radius: 9px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  
+   
+
+}
+.about-gtech-text ion-button  p {
+    color: var(--ion-color-primary);
+    margin-right: 2rem;
+
+}
+
+
+.bold{
+    font-weight: bold;
+}
+
+.grid-servicos ion-col{
+    background: #F4F4F4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+    margin: 2rem 0;
+    padding: 2rem;
+
+}
+
+.grid-servicos ion-col ion-label{
+    color: var(--ion-color-primary);
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+
+.card{
+    background-color: none;
+}
+
+.primary{
+    color: var(--ion-color-primary) !important;
+}

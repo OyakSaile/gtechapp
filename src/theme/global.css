@@ -1,0 +1,41 @@
+@import './variables.css';
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body, input, textarea,a, h1, p {
+    font-family: 'Montserrat', sans-serif;
+}
+ 
+ionpage{
+    background-color: white !important;
+}
+
+
+body {
+    font-size: 16px;
+  
+}
+
+a{
+    text-decoration: none;
+}
+
+:is(ion-content,ion-page,ion-header, ion-tab-bar ){
+    --ion-background-color:white;
+
+}
+
+.font-500{
+    font-weight: 500;
+}
+
+.whatsappTabButton{
+    background-color: var(--ion-color-primary);
+    color: white;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    
+}
